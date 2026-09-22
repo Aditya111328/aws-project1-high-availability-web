@@ -20,6 +20,7 @@ The objective was to build, validate, troubleshoot, and document a highly availa
 ---
 
 ## Architecture
+![AWS Project 1 Architecture Diagram](architecture-diagram.png)
 
 ```text
                          Internet
